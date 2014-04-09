@@ -12,7 +12,7 @@ To run this server:
 
 To view the server in action:
 
-  * Visit http://blooming-wildwood-9666.herokuapp.com/ | git@heroku.com:blooming-wildwood-9666.git
+  * Visit http://web-audio-sandbox.herokuapp.com/ | git@heroku.com:web-audio-sandbox.git
 
 
 
